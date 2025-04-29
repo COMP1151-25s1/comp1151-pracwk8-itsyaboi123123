@@ -447,7 +447,7 @@ GameObject:
   - component: {fileID: 1957785243}
   - component: {fileID: 1957785242}
   - component: {fileID: 1957785241}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -733,7 +733,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5081964818388867906, guid: 6233bb6095bbc3c40a4fa7c79f9fc957, type: 3}
       propertyPath: m_Layer
-      value: 3
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5081964818388867906, guid: 6233bb6095bbc3c40a4fa7c79f9fc957, type: 3}
       propertyPath: m_TagString
